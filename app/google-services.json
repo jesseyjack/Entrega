@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "797952421281",
+    "firebase_url": "https://appfirebase-db4fc.firebaseio.com",
+    "project_id": "appfirebase-db4fc",
+    "storage_bucket": "appfirebase-db4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797952421281:android:20d40c529db60d6a",
+        "android_client_info": {
+          "package_name": "com.example.jack.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797952421281-9nrf4glgip0cec7jcrj03c29bcitfhp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jack.appfirebase",
+            "certificate_hash": "CE94A49FBE390CF53A744E38A9D2A2B1D23D94F2"
+          }
+        },
+        {
+          "client_id": "797952421281-0pajbarl87sk6jl11mcc70gh5b0inp21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797952421281-0pajbarl87sk6jl11mcc70gh5b0inp21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
